@@ -1,0 +1,170 @@
+FullStack Development Course
+
+WhatsApp 7999452711
+
+Join OKLABS Channel
+
+CSS Selectors
+
+CSS Selectors
+
+1. Element Selector
+
+			element{
+						property:value;
+			}
+
+2. ID Selector   #
+		Syntax
+		element#value{
+					property:value;
+		}
+		
+		Example
+		#a1{
+					color:red;
+		}
+
+3. Psudo Class Selector  :
+
+		element:hover{
+		}
+
+4. Class Selector  .   (To reduce the source code)
+		
+		Syntax
+		
+		.className{	
+				property:value;
+		}
+		
+		Ex.
+		div.a{
+			
+		}
+		
+5. Attribute Selector   []
+			
+		Syntax
+		
+		[attributeName="Value"]{
+				property:value;
+		}
+
+		Ex.
+
+6. Combintion Selector   ,
+
+		selector1,selector2,selector3...{
+				property:value;
+		}
+
+		
+How you can define your own attributes ?
+
+<tag data-*="value">ContentArea</tag>
+
+
+How you can target element in CSS ?
+
+1. <head>
+2. inline css
+3. external css
+
+
+
+
+
+
+
+
+
+
+CSS BOX Model Concept
+
+How you can create a box
+1. Width
+2. Height
+3. Background color
+
+Live server give you hot reloading
+
+
+There are 2 types of HTML Tags.
+1. Block Level Elements
+			Start with a new line	
+			
+			Eg. div,p
+2. Inline Elements
+			Never start with a new line. They remain in the queue
+			span,em,strong
+
+
+https://www.w3schools.com/tags/ref_colornames.asp
+
+
+How many way we can target the css
+1. Inside <head> tags
+2. Inline CSS
+3. External CSS
+
+Before  718 byte  Developer1 
+
+After   655 byte  Developer2
+
+63 Bytes save
+
+
+Box Corners
+1. TOP LEFT
+2. TOP RIGHT
+3. BOTTOM LEFT
+4. BOTTOM RIGHT
+
+
+before  786 bytes
+after   777 bytes
+
+. = current folder
+
+./ = inside current folder
+
+Why all box are comming on seperate lines ?
+
+Bcoz div is a block level element
+
+Font Family
+1. Serif
+		Times new Rohman
+2. San-Serif
+		Arial,Helvatica
+
+
+Hover
+
+	Purple -- 5 sec --> Red
+	State1 -----------> State2 (:hover)
+Whenever there is a time involed in a hover
+
+i.e called CSS Transition
+
+We always write CSS Transition Property inside State1
+
+https://www.w3schools.com/colors/colors_names.asp
+
+<link href="" rel="" />
+
+href = hyperlink reference
+rel = relation
+
+
+before 707 byte
+after  689 byte  (Optimized COde)
+
+ border-direction:size type color;
+
+There are 4 direction sides
+
+TRBL = TOP RIGHT BOTTOM LEFT
+
+https://www.w3schools.com/css/css_border.asp

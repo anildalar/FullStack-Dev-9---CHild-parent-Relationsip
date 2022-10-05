@@ -1,0 +1,16 @@
+#a1,#a2,#a3{
+    width: 300px;
+    height: 300px;
+    border:10px dashed #000;
+    display: inline-block;
+}
+
+#a1{
+    background-color:red;
+}
+#a2{
+    background-color:green;
+}
+#a3{
+    background-color:blue;
+}
